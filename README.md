@@ -297,15 +297,6 @@ MIT License — используйте свободно в коммерческ�
 
 ## 📞 Контакты
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/llm-mas-coordination-metrics/issues)
-- **Email**: your.email@example.com
+- **Email**: n.shmykov@yandex.ru
 
 ---
-
-<div align="center">
-
-**⭐ Если проект полезен — поставьте звезду! ⭐**
-
-*Создано с ❤️ для сообщества AI-разработчиков*
-
-</div>
